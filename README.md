@@ -1,4 +1,5 @@
 # Intermediate-Python-salesforce-2026
+* 1-Question poll: https://xoyondo.com/op/2c38qbrfk98p55f
 * materials: https://github.com/davewadestein/Intermediate-Python
 * how to reach me: instructor.dws@gmail.com
 * assessment: https://docs.google.com/forms/d/e/1FAIpQLSd27ZfhkwSRNcakiqqgjmmqqwjVXz751_c9Ws3EH_OraK-T_Q/viewform
