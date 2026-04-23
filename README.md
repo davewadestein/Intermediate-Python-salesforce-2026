@@ -6,7 +6,7 @@
 * lunch breaks:
    * 9:00 Pacific // 12:00 Eastern (30 min.)
    * (if we make the second lunch break 30 mins. earlier, we'll have 90 mins. between lunch breaks and likely won't need an additional 10-15 break between...)
-   * 11:30 Pacific // 2:30 Eastern (30 min.)
+   * 11:00 Pacific // 2:00 Eastern (30 min.)
 
 
 ## How to run the notebooks
