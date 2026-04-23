@@ -15,5 +15,8 @@
 * on your own machine, as long as you have Python + Jupyter Lab installed
 
 
-## Resource
+## Resources
 * Python Tutor https://pythontutor.com/
+
+## Course evaluation (please fill out)
+* https://sfdc-bt.plusplus.app/login/?next=/a/surveys/721/
