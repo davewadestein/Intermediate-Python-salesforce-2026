@@ -15,3 +15,5 @@
 * on your own machine, as long as you have Python + Jupyter Lab installed
 
 
+## Resource
+* Python Tutor https://pythontutor.com/
